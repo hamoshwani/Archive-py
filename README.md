@@ -17,7 +17,7 @@ Archive-py is a Python project for customizing web archives result
 
 ## Installation
 
-Use python3 [python](https://www.python.org/downloads/) to use Archive-py.
+Use [python3](https://www.python.org/downloads/) to use Archive-py.
 
 ```bash
 $ git clone https://github.com/hamoshwani/Archive-py.git
