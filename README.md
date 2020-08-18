@@ -4,7 +4,7 @@ Customizing web archives result
 
 Archive-py is a Python project for customizing web archives result
 
-## Futures
+## Features
 * Search for urls between dates
 * Modify your archive search result limit
 * Search for custom strings in urls
