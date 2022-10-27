@@ -7,7 +7,7 @@ def req(url):
     ua = UserAgent()
     headers = {'User-Agent': ua.random}
     try:
-        r = requests.get(url,headers=headers)
+        r = requests.get(url,headers=headers,verify=false)
         resp=r.text
     except requests.exceptions.HTTPError as errh:
         print("Http Error:", errh)
